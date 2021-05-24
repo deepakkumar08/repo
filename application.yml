@@ -1,9 +1,5 @@
 my:
- greeting: Hello World
- list:
-  values: Oner, Two , Three
+ greeting: Hello World from config derver
 
 db:
- connection: {connectionString: 'http://_', userName: 'foo', password: 'pass'}
- host: 129.0.0.1
- port: 1200
+ connection: connecting-string-here-from-config-server
