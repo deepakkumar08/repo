@@ -1,5 +1,5 @@
 my:
- greeting: Hello World from config derver
+ greeting: Hello World from config server updated
 
 db:
  connection: connecting-string-here-from-config-server
